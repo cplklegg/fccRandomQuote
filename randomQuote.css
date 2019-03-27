@@ -1,0 +1,25 @@
+body {
+  background-color: #99ccff;
+  text-align: center;
+}
+
+h1 {
+  font-size:  3em;  
+}
+
+p {
+  font-size: 1.7em;
+}
+
+.italic {
+  font-size: 1.1;
+  font-style: italic;
+}
+.text {
+  border-style: solid;
+  border-color: red;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 1%;
+  border-radius: 15%;
+}
